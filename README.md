@@ -1,2 +1,2 @@
-# projects2022
-Projects created throughout the current year.
+# rock-paper-scissors
+A computer game to play rock paper scissors with a cpu. Written in Python.
